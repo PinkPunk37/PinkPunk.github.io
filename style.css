@@ -1,0 +1,66 @@
+body {
+    background: url("background.gif") repeat-y bottom right;
+    font-family: sans-serif
+}
+
+p {
+    color: black
+}
+
+h1 {
+    color: black
+}
+
+#photo1 {
+    position: absolute;
+    bottom: 220px;
+    left: 40px;
+}
+
+#photo2 {
+    position: absolute;
+    bottom: 220px;
+    right: 570px;
+}
+
+#photo3 {
+    position: absolute;
+    bottom: 220px;
+    right: 40px;
+}
+
+#photo6 {
+    position: absolute;
+    bottom: -180px;
+    right: 40px;
+}
+
+#soundcloud {
+    position: absolute;
+    top: 0px;
+    right: 40px;
+}
+
+#pinkcity {
+    position: absolute;
+    bottom: -1000px;
+    left: 700px;
+}
+
+#jesus {
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+
+#photo5 {
+    position: absolute;
+    bottom: -180px;
+    right: 570px;
+}
+
+#photo7 {
+    position: absolute;
+    bottom: -180px;
+    left: 40px;
+}
